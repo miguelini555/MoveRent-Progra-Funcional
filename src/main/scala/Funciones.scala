@@ -147,8 +147,7 @@ object Funciones {
           mes,
           vehiculo,
           cantidad,
-          kilometros,
-          ingresos
+          kilometros
         )
     }
   }
