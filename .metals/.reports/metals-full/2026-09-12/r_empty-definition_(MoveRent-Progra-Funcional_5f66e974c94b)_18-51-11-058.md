@@ -1,15 +1,31 @@
+error id: file:///C:/Users/Usuario/Desktop/MoveRent-Progra-Funcional/src/main/scala/Main.scala:
+file:///C:/Users/Usuario/Desktop/MoveRent-Progra-Funcional/src/main/scala/Main.scala
+empty definition using pc, found symbol in pc: 
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+	 -resultado/kilometrosRecorridos.
+	 -resultado/kilometrosRecorridos#
+	 -resultado/kilometrosRecorridos().
+	 -scala/Predef.resultado.kilometrosRecorridos.
+	 -scala/Predef.resultado.kilometrosRecorridos#
+	 -scala/Predef.resultado.kilometrosRecorridos().
+offset: 4687
+uri: file:///C:/Users/Usuario/Desktop/MoveRent-Progra-Funcional/src/main/scala/Main.scala
+text:
+```scala
 object Main {
     def main(args: Array[String]): Unit = {
 
     val usuario1 = Usuario(
-        80068,
+        1,
         "Emanuel",
         "emaguesa@gmail.com",
         "78057489"
     )
 
     val usuario2 = Usuario(
-        67890,
+        2,
         "Carlos",
         "carlos4@gmail.com",
         "71256158"
@@ -19,7 +35,7 @@ object Main {
         1,
         Disponible,
         1.50,
-        "Plaza Murillo"
+        "Plaza Central"
     )
 
     val bicicleta1 = new Bicicleta(
@@ -40,7 +56,7 @@ object Main {
         1,
         usuario1,
         scooter1,
-        "2026-09-15",
+        "2026-09-12",
         8.5
     )
 
@@ -48,7 +64,7 @@ object Main {
         2,
         usuario2,
         bicicleta1,
-        "2026-09-13",
+        "2026-09-12",
         5.0
     )
 
@@ -56,7 +72,7 @@ object Main {
         3,
         usuario1,
         scooter1,
-        "2026-09-11",
+        "2026-09-15",
         10.0
     )
 
@@ -66,54 +82,72 @@ object Main {
         List(alquiler1, alquiler2, alquiler3)
     )
 
-    println("----- Bienvenido a MoveRENT -----")
+    println("===== MOVARENT =====")
     println(
         s"Usuarios: ${sistema.usuarios.length}"
     )
+
     println(
         s"Vehiculos: ${sistema.vehiculos.length}"
+    )
+    
+    println(
+        s"Vehiculos disponibles: ${
+            Funciones.vehiculosDisponibles(
+                sistema.vehiculos
+            ).length
+        }"
     )
 
 
     println()
-    println("----- Disponibilidad de Vehiculos -----") //Funcion orden superior
+    println("===== FUNCION DE ORDEN SUPERIOR =====")
     val vehiculosDisponibles =
         Funciones.filtrarVehiculos(
             sistema.vehiculos,
             vehiculo => vehiculo.estado == Disponible
         )
     println(
-        s"Vehiculos disponibles: ${vehiculosDisponibles.length}"
+        s"Vehiculos disponibles encontrados: ${
+            vehiculosDisponibles.length
+        }"
     )
 
 
     println()
-    println("----- Informacion Vehiculo -----") // Componente Generico
+    println("===== COMPONENTE GENERICO =====")
     val resultadoVehiculo =
         Resultado(
             bicicleta1,
-            "Vehiculo encontrado"
+            "Vehiculo encontrado correctamente"
         )
     println(
-        s"Resultado: ${resultadoVehiculo.mensaje}"
+        s"Mensaje: ${resultadoVehiculo.mensaje}"
     )
     println(
-        s"Vehiculo: ${resultadoVehiculo.dato}"
+        s"Vehiculo: ${
+            resultadoVehiculo.dato
+            .getClass
+            .getSimpleName
+        }"
     )
 
+
     println()
-    println("----- Recorrido -----") // Reduce
+    println("===== REDUCE =====")
     val kilometrosTotales =
         Funciones.kilometrosTotales(
             sistema.alquileres
         )
     println(
-        s"Total kilometros recorridos: ${kilometrosTotales}"
+        s"Kilometros totales recorridos: ${
+            kilometrosTotales
+        }"
     )
 
 
     println()
-    println("----- Informacion Scooter -----") // Cambio de Estado
+    println("===== CAMBIO DE ESTADO =====")
     val vehiculosActualizados =
         Funciones.cambiarEstadoVehiculo(
             sistema.vehiculos,
@@ -137,18 +171,18 @@ object Main {
             )
         }"
     )
-    val alquileresEma =
+    val alquileresManu =
         Funciones.alquileresDeUsuario(
             sistema.alquileres,
             1
         )
     println(
-        s"Alquileres de Emanuel: ${alquileresEma.length}"
+        s"Alquileres de Manu: ${alquileresManu.length}"
     )
 
 
     println()
-    println("----- Informacion Alquileres -----") // Flatmap
+    println("===== FLATMAP =====")
     val nombresUsuarios =
         Funciones.nombresUsuariosConAlquileres(
             sistema.alquileres
@@ -166,28 +200,46 @@ object Main {
     println(
         s"Vehiculo con ID 2: $vehiculoEncontrado"
     )
-    
     val resumen =
         Funciones.generarResumenMensual(
             sistema.alquileres,
             sistema.vehiculos,
             "2026-09"
         )
-
     resumen match {
         case Some(resultado) =>
             println()
-            println("----- RESUMEN MENSUAL -----")
+            println("===== RESUMEN MENSUAL =====")
             println(s"Mes: ${resultado.mes}")
-            println(s"Vehiculo mas usado: ${resultado.vehiculoMasUsado}")
-            println(s"Cantidad de alquileres: ${resultado.cantidadAlquileres}")
-            println(s"Ingresos generados: Bs ${resultado.ingresos}")
-        case None => println("No hay alquileres para este mes.")
+            println(s"Vehiculo mas usado: ${
+                resultado.vehiculoMasUsado
+                .getClass
+                .getSimpleName
+            }"
+        )
+        println(
+            s"Cantidad de alquileres: ${
+                resultado.cantidadAlquileres
+            }"
+        )
+        println(
+            s"Kilometros recorridos: ${
+                resultado.kilometrosR@@ecorridos
+            }"
+        )
+        println(
+            s"Ingresos generados: Bs ${
+                resultado.ingresos
+            }"
+        )
+        case None =>
+            println()
+            println("No hay alquileres para este mes.")
     }
 
 
     println()
-    println("----- Nuevo Alquiler -----")
+    println("===== NUEVO ALQUILER =====")
     val nuevoAlquiler =
         Funciones.realizarAlquiler(
             usuario1,
@@ -196,21 +248,41 @@ object Main {
         )
     nuevoAlquiler match {
         case Some((alquiler, vehiculoActualizado)) =>
-            println("Alquiler realizado correctamente")
-            println(s"Usuario: ${alquiler.usuario.nombre}")
-            println(s"Vehiculo: ${alquiler.vehiculo}")
-            println(s"Estado anterior: ${alquiler.vehiculo.estado}")
-            println(s"Estado nuevo: ${vehiculoActualizado.estado}")
-        
-
+            println(
+                "Alquiler realizado correctamente"
+            )
+            println(
+                s"Usuario: ${alquiler.usuario.nombre}"
+            )
+            println(
+                s"Vehiculo: ${
+                    alquiler.vehiculo
+                    .getClass
+                    .getSimpleName
+                }"
+            )
+            println(
+                s"Kilometros: ${alquiler.kilometrosRecorridos}"
+            )
+            println(
+                s"Costo: Bs ${alquiler.calcularCosto()}"
+            )
+            println(
+                s"Estado anterior: ${alquiler.vehiculo.estado}"
+            )
+            println(
+                s"Estado nuevo: ${vehiculoActualizado.estado}"
+            )
         val nuevoSistema =
             Funciones.actualizarSistema(
                 sistema,
                 alquiler,
                 vehiculoActualizado
             )
+
+
         println()
-        println("----- Sistema Actualizado -----")
+        println("===== SISTEMA ACTUALIZADO =====")
         println(
             s"Vehiculos disponibles antes: ${
                 Funciones.vehiculosDisponibles(
@@ -220,16 +292,28 @@ object Main {
         )
         
         println(
-            s"Vehiculos disponibles ahora: ${
+            s"Vehiculos disponibles despues: ${
                 Funciones.vehiculosDisponibles(
                     nuevoSistema.vehiculos
                 ).length
             }"
         )
 
-        println(s"Cantidad de alquileres antes: ${sistema.alquileres.length}")
-        println(s"Cantidad de alquileres despues: ${nuevoSistema.alquileres.length}")
+        println(s"Cantidad de alquileres antes: ${
+            sistema.alquileres.length
+        }")
+
+        println(s"Cantidad de alquileres despues: ${
+            nuevoSistema.alquileres.length
+        }")
+
         case None => println("No se pudo realizar el alquiler")
         }
     }
 }
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: 

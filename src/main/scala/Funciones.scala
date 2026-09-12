@@ -1,5 +1,4 @@
 object Funciones {
-
   def vehiculosDisponibles(
     vehiculos: List[Vehiculo]
   ): List[Vehiculo] = {
@@ -158,7 +157,6 @@ object Funciones {
     idVehiculo: Int,
     nuevoEstado: EstadoVehiculo
   ): List[Vehiculo] = {
-
     vehiculos.map(
       vehiculo =>
         if (vehiculo.id == idVehiculo) {
@@ -175,7 +173,6 @@ object Funciones {
     alquiler: Alquiler,
     vehiculoActualizado: Vehiculo
   ): Sistema = {
-
     val nuevosVehiculos =
       sistema.vehiculos.map(
         vehiculo =>
@@ -201,7 +198,6 @@ object Funciones {
     vehiculos: List[Vehiculo],
     criterio: Vehiculo => Boolean
   ): List[Vehiculo] = {
-
     vehiculos.filter(
       vehiculo => criterio(vehiculo)
     )
@@ -211,7 +207,6 @@ object Funciones {
   def kilometrosTotales(
     alquileres: List[Alquiler]
   ): Double = {
-
     alquileres
       .map(alquiler => alquiler.kilometrosRecorridos)
       .reduce(_ + _)
