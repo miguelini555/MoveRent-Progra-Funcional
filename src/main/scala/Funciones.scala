@@ -11,7 +11,6 @@ object Funciones {
     )
   }
 
-
   def buscarVehiculo(
     vehiculos: List[Vehiculo],
     id: Int

@@ -904,3 +904,77 @@ ADVERTENCIA: Unmatched cancel notification for request id 196
 2026.09.13 20:10:32 INFO  shutting down Metals
 2026.09.13 20:10:32 INFO  Shut down connection with build server.
 2026.09.13 20:10:32 INFO  Exiting server
+2026.09.14 22:03:48 INFO  Started: Metals version 1.6.8 in folders 'C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional' for client Visual Studio Code 1.137.0.
+2026.09.14 22:03:50 INFO  Memory monitor started
+2026.09.14 22:03:53 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.14 22:03:53 INFO  no build target found for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Funciones.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.14 22:03:55 INFO  Attempting to connect to the build server...
+2026.09.14 22:03:55 INFO  Running BSP server List(C:\Users\Usuario\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\.scala-build\ide-envs.json, C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional)
+2026.09.14 22:03:58 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\.metals\bsp.trace.json or C:\Users\Usuario\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.09.14 22:04:01 INFO  BSP server: Starting compilation server
+2026.09.14 22:04:01 INFO  no build target found for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Funciones.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.14 22:04:13 INFO  time: Connected to build server in 18s
+2026.09.14 22:04:13 INFO  Connected to Build server: scala-cli v1.15.0
+2026.09.14 22:04:14 INFO  time: Imported build in 0.27s
+2026.09.14 22:04:20 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.14 22:04:23 INFO  time: indexed workspace in 8.85s
+sept 14, 2026 10:07:19 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 13
+sept 14, 2026 10:07:31 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 60
+sept 14, 2026 10:08:30 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 152
+sept 14, 2026 10:08:48 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 189
+2026.09.14 22:09:36 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+sept 14, 2026 10:09:42 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 391
+2026.09.14 22:09:45 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 9.35s
+sept 14, 2026 10:49:11 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 653
+2026.09.14 23:16:35 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.14 23:16:39 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 4.07s
+2026.09.14 23:16:39 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.14 23:16:41 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 1.93s
+2026.09.14 23:55:33 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.14 23:55:37 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 3.55s
+sept 14, 2026 11:56:21 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1468
+sept 14, 2026 11:56:34 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1525
+2026.09.14 23:57:14 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.14 23:57:16 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 2.7s
+Exception in thread "pool-6-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:208)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026.09.14 23:59:54 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.14 23:59:59 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 4.46s
+sept 15, 2026 12:00:01 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1827
+sept 15, 2026 12:00:23 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1861
+sept 15, 2026 12:00:26 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1889
+2026.09.15 00:00:41 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.15 00:00:44 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 2.86s
+sept 15, 2026 12:01:27 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2048
+2026.09.15 00:01:41 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.15 00:01:42 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 1.32s
+Exception in thread "pool-6-thread-2" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:208)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026.09.15 00:07:01 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.15 00:07:03 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 1.91s
+2026.09.15 00:07:58 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.15 00:07:59 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 1.66s
+2026.09.15 00:08:02 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.15 00:08:02 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.95s
