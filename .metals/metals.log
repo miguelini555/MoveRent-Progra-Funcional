@@ -363,3 +363,544 @@ Exception in thread "pool-49-thread-1" java.lang.InterruptedException
 2026.09.12 14:44:26 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.97s
 2026.09.12 14:45:10 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
 2026.09.12 14:45:10 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.9s
+2026.09.12 17:30:47 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 17:30:49 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 1.79s
+2026.09.12 17:32:20 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Vehiculo.scala
+2026.09.12 17:32:20 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Vehiculo.scala
+2026.09.12 17:32:20 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Vehiculo.scala
+2026.09.12 17:32:20 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Vehiculo.scala
+2026.09.12 17:32:20 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Vehiculo.scala
+2026.09.12 17:32:20 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Vehiculo.scala
+2026.09.12 17:32:20 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Vehiculo.scala
+2026.09.12 17:32:20 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 17:32:20 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.47s
+sept 12, 2026 5:33:12 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 7050
+sept 12, 2026 5:33:18 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 7093
+2026.09.12 17:34:06 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 17:34:06 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.36s
+2026.09.12 17:36:10 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 17:36:10 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.36s
+2026.09.12 17:37:08 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 17:37:08 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.44s
+2026.09.12 17:37:45 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Auto.scala
+2026.09.12 17:37:45 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Auto.scala
+2026.09.12 17:37:46 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 17:37:46 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.33s
+2026.09.12 17:37:53 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 17:37:53 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.42s
+2026.09.12 17:37:59 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Scooter.scala
+2026.09.12 17:37:59 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Scooter.scala
+2026.09.12 17:37:59 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Scooter.scala
+2026.09.12 17:38:00 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 17:38:00 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.33s
+2026.09.12 17:38:25 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 17:38:25 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.5s
+sept 12, 2026 5:38:54 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 8406
+sept 12, 2026 5:38:58 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 8432
+2026.09.12 17:39:00 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 17:39:00 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.3s
+2026.09.12 17:39:00 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 17:39:00 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.53s
+2026.09.12 17:40:35 INFO  compiling moverent-progra-funcional_66e974c94b (2 scala sources)
+2026.09.12 17:40:35 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.76s
+2026.09.12 17:41:04 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 17:41:04 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.49s
+2026.09.12 17:41:13 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Sistema.scala
+2026.09.12 17:41:13 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Sistema.scala
+2026.09.12 17:41:13 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Sistema.scala
+2026.09.12 17:41:13 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Sistema.scala
+2026.09.12 17:41:13 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Sistema.scala
+2026.09.12 17:41:13 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 17:41:13 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.7s
+sept 12, 2026 5:41:29 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 8998
+2026.09.12 17:41:35 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 17:41:35 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.43s
+sept 12, 2026 6:03:57 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 9277
+2026.09.12 18:05:48 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 18:05:51 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 3.67s
+2026.09.12 18:05:51 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 18:05:56 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 4.35s
+2026.09.12 18:06:46 INFO  compiling moverent-progra-funcional_66e974c94b (2 scala sources)
+2026.09.12 18:06:48 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 1.7s
+2026.09.12 18:06:48 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+sept 12, 2026 6:06:50 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 9471
+2026.09.12 18:06:50 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Bicicleta.scala
+2026.09.12 18:06:53 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 5.21s
+2026.09.12 18:06:54 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Bicicleta.scala
+sept 12, 2026 6:06:58 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 9482
+2026.09.12 18:06:59 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Bicicleta.scala
+2026.09.12 18:06:59 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Bicicleta.scala
+2026.09.12 18:06:59 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Bicicleta.scala
+2026.09.12 18:07:04 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Bicicleta.scala
+2026.09.12 18:07:04 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Bicicleta.scala
+2026.09.12 18:07:05 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Bicicleta.scala
+2026.09.12 18:07:59 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Bicicleta.scala
+2026.09.12 18:08:02 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Bicicleta.scala
+2026.09.12 18:08:02 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Bicicleta.scala
+2026.09.12 18:08:02 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Bicicleta.scala
+sept 12, 2026 6:08:04 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 9529
+2026.09.12 18:08:18 INFO  compiling moverent-progra-funcional_66e974c94b (3 scala sources)
+2026.09.12 18:08:22 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 3.6s
+2026.09.12 18:08:27 INFO  compiling moverent-progra-funcional_66e974c94b (3 scala sources)
+2026.09.12 18:08:29 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 2.13s
+sept 12, 2026 6:09:09 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 9635
+sept 12, 2026 6:12:56 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 10392
+2026.09.12 18:13:00 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+sept 12, 2026 6:13:00 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 10413
+2026.09.12 18:13:08 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 8.12s
+sept 12, 2026 6:15:54 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 10443
+2026.09.12 18:17:18 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 18:17:23 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 4.98s
+sept 12, 2026 6:17:29 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 10832
+2026.09.12 18:19:11 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 18:19:13 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 2.11s
+sept 12, 2026 6:20:02 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 11704
+sept 12, 2026 6:20:05 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 11725
+sept 12, 2026 6:20:18 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 11807
+sept 12, 2026 6:20:22 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 11847
+2026.09.12 18:22:07 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 18:22:09 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 1.9s
+sept 12, 2026 6:22:43 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 12556
+2026.09.12 18:26:37 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 18:26:41 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 4.02s
+sept 12, 2026 6:28:20 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 13988
+sept 12, 2026 6:30:04 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 14496
+2026.09.12 18:30:55 INFO  Created report: Optional[file:///C:/Users/Usuario/Desktop/MoveRent-Progra-Funcional/src/main/scala/Main.scala]
+2026.09.12 18:30:55 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\.metals\.reports\metals-full\2026-09-12\r_empty-definition_(MoveRent-Progra-Funcional_5f66e974c94b)_18-30-54-982.md")
+2026.09.12 18:33:09 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+sept 12, 2026 6:33:10 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 14747
+2026.09.12 18:33:11 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 2.29s
+2026.09.12 18:33:28 INFO  Created report: Optional[file:///C:/Users/Usuario/Desktop/MoveRent-Progra-Funcional/src/main/scala/Main.scala]
+2026.09.12 18:33:28 INFO  java.lang.StringIndexOutOfBoundsException: Index 7571 out of bounds for length 7559 (full report at: "C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\.metals\.reports\metals-full\2026-09-12\r_compiler-error_(MoveRent-Progra-Funcional_5f66e974c94b)_18-33-28-751.md")
+2026.09.12 18:34:09 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 18:34:10 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 1.63s
+2026.09.12 18:34:15 INFO  Created report: Optional[file:///C:/Users/Usuario/Desktop/MoveRent-Progra-Funcional/src/main/scala/Main.scala]
+2026.09.12 18:34:15 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\.metals\.reports\metals-full\2026-09-12\r_empty-definition_(MoveRent-Progra-Funcional_5f66e974c94b)_18-34-15-527.md")
+2026.09.12 18:34:16 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 18:34:16 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.72s
+2026.09.12 18:35:37 INFO  compiling moverent-progra-funcional_66e974c94b (2 scala sources)
+2026.09.12 18:35:39 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 1.52s
+2026.09.12 18:35:46 INFO  compiling moverent-progra-funcional_66e974c94b (2 scala sources)
+2026.09.12 18:35:46 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.69s
+2026.09.12 18:36:17 INFO  file:///C:/Users/Usuario/Desktop/MoveRent-Progra-Funcional/src/main/scala/Main.scala:32:9: stale bloop error: too many arguments for constructor Bicicleta in class Bicicleta: (id: Int, estado: EstadoVehiculo, costoPorKm: Double, ubicacion: String):
+  Bicicleta
+        "Montaña",
+        ^^^^^^^^^
+2026.09.12 18:36:17 INFO  file:///C:/Users/Usuario/Desktop/MoveRent-Progra-Funcional/src/main/scala/Main.scala:238:9: stale bloop error: Recursive value nuevoAlquiler needs type
+
+ Run with -explain-cyclic for more details.
+        nuevoAlquiler match {
+        ^
+2026.09.12 18:36:17 INFO  file:///C:/Users/Usuario/Desktop/MoveRent-Progra-Funcional/src/main/scala/Main.scala:244:34: stale bloop error: Not found: alquiler - did you mean alquiler1? or perhaps alquiler2 or alquiler3?
+                    s"Usuario: ${alquiler.usuario.nombre}"
+                                 ^^^^^^^^
+2026.09.12 18:36:17 INFO  file:///C:/Users/Usuario/Desktop/MoveRent-Progra-Funcional/src/main/scala/Main.scala:248:25: stale bloop error: Not found: alquiler - did you mean alquiler1? or perhaps alquiler2 or alquiler3?
+                        alquiler.vehiculo
+                        ^^^^^^^^
+2026.09.12 18:36:17 INFO  file:///C:/Users/Usuario/Desktop/MoveRent-Progra-Funcional/src/main/scala/Main.scala:254:37: stale bloop error: Not found: alquiler - did you mean alquiler1? or perhaps alquiler2 or alquiler3?
+                    s"Kilometros: ${alquiler.kilometrosRecorridos}"
+                                    ^^^^^^^^
+2026.09.12 18:36:17 INFO  file:///C:/Users/Usuario/Desktop/MoveRent-Progra-Funcional/src/main/scala/Main.scala:257:35: stale bloop error: Not found: alquiler - did you mean alquiler1? or perhaps alquiler2 or alquiler3?
+                    s"Costo: Bs ${alquiler.calcularCosto()}"
+                                  ^^^^^^^^
+2026.09.12 18:36:17 INFO  file:///C:/Users/Usuario/Desktop/MoveRent-Progra-Funcional/src/main/scala/Main.scala:260:42: stale bloop error: Not found: alquiler - did you mean alquiler1? or perhaps alquiler2 or alquiler3?
+                    s"Estado anterior: ${alquiler.vehiculo.estado}"
+                                         ^^^^^^^^
+2026.09.12 18:36:17 INFO  file:///C:/Users/Usuario/Desktop/MoveRent-Progra-Funcional/src/main/scala/Main.scala:263:39: stale bloop error: Not found: vehiculoActualizado - did you mean vehiculosActualizados?
+                    s"Estado nuevo: ${vehiculoActualizado.estado}"
+                                      ^^^^^^^^^^^^^^^^^^^
+2026.09.12 18:36:17 INFO  file:///C:/Users/Usuario/Desktop/MoveRent-Progra-Funcional/src/main/scala/Main.scala:268:25: stale bloop error: Not found: alquiler - did you mean alquiler1? or perhaps alquiler2 or alquiler3?
+                        alquiler,
+                        ^^^^^^^^
+2026.09.12 18:36:17 INFO  file:///C:/Users/Usuario/Desktop/MoveRent-Progra-Funcional/src/main/scala/Main.scala:269:25: stale bloop error: Not found: vehiculoActualizado - did you mean vehiculosActualizados?
+                        vehiculoActualizado
+                        ^^^^^^^^^^^^^^^^^^^
+2026.09.12 18:36:17 INFO  file:///C:/Users/Usuario/Desktop/MoveRent-Progra-Funcional/src/main/scala/Main.scala:285:25: stale bloop error: Not found: nuevoSistema
+                        nuevoSistema.vehiculos
+                        ^^^^^^^^^^^^
+2026.09.12 18:36:17 INFO  file:///C:/Users/Usuario/Desktop/MoveRent-Progra-Funcional/src/main/scala/Main.scala:296:21: stale bloop error: Not found: nuevoSistema
+                    nuevoSistema.alquileres.length
+                    ^^^^^^^^^^^^
+2026.09.12 18:36:17 WARN  Could not find semantic tokens for: file:///C:/Users/Usuario/Desktop/MoveRent-Progra-Funcional/src/main/scala/Main.scala
+2026.09.12 18:36:19 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\.metals\.reports\metals-full\2026-09-12\r_empty-definition_(MoveRent-Progra-Funcional_5f66e974c94b)_18-34-15-527.md")
+2026.09.12 18:36:19 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\.metals\.reports\metals-full\2026-09-12\r_empty-definition_(MoveRent-Progra-Funcional_5f66e974c94b)_18-34-15-527.md")
+2026.09.12 18:36:31 INFO  compiling moverent-progra-funcional_66e974c94b (2 scala sources)
+2026.09.12 18:36:31 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.7s
+2026.09.12 18:38:05 INFO  compiling moverent-progra-funcional_66e974c94b (2 scala sources)
+2026.09.12 18:38:05 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.33s
+2026.09.12 18:39:09 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\.metals\.reports\metals-full\2026-09-12\r_empty-definition_(MoveRent-Progra-Funcional_5f66e974c94b)_18-34-15-527.md")
+2026.09.12 18:39:10 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\.metals\.reports\metals-full\2026-09-12\r_empty-definition_(MoveRent-Progra-Funcional_5f66e974c94b)_18-34-15-527.md")
+2026.09.12 18:39:32 INFO  compiling moverent-progra-funcional_66e974c94b (2 scala sources)
+2026.09.12 18:39:32 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.33s
+2026.09.12 18:39:37 INFO  compiling moverent-progra-funcional_66e974c94b (2 scala sources)
+2026.09.12 18:39:40 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 2.51s
+2026.09.12 18:41:03 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 18:41:03 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.29s
+2026.09.12 18:41:09 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 18:41:11 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 1.21s
+2026.09.12 18:41:50 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 18:41:51 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 1.01s
+2026.09.12 18:42:07 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 18:42:07 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.44s
+2026.09.12 18:42:19 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 18:42:19 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.48s
+2026.09.12 18:43:11 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 18:43:11 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.47s
+2026.09.12 18:43:11 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 18:43:12 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.78s
+2026.09.12 18:43:13 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Scooter.scala
+2026.09.12 18:43:30 INFO  compiling moverent-progra-funcional_66e974c94b (2 scala sources)
+2026.09.12 18:43:30 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.29s
+2026.09.12 18:43:30 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 18:43:30 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.35s
+2026.09.12 18:43:31 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Auto.scala
+2026.09.12 18:43:42 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Scooter.scala
+2026.09.12 18:43:54 INFO  compiling moverent-progra-funcional_66e974c94b (3 scala sources)
+2026.09.12 18:43:54 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.27s
+2026.09.12 18:44:01 INFO  compiling moverent-progra-funcional_66e974c94b (3 scala sources)
+2026.09.12 18:44:01 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.9s
+2026.09.12 18:45:26 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 18:45:26 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.47s
+2026.09.12 18:45:26 INFO  compiling moverent-progra-funcional_66e974c94b (2 scala sources)
+2026.09.12 18:45:28 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 1.95s
+2026.09.12 18:45:35 INFO  compiling moverent-progra-funcional_66e974c94b (2 scala sources)
+2026.09.12 18:45:35 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.74s
+2026.09.12 18:45:35 INFO  compiling moverent-progra-funcional_66e974c94b (2 scala sources)
+2026.09.12 18:45:37 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 1.48s
+2026.09.12 18:45:59 INFO  compiling moverent-progra-funcional_66e974c94b (3 scala sources)
+2026.09.12 18:45:59 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.89s
+sept 12, 2026 6:49:22 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 17267
+2026.09.12 18:51:11 INFO  Created report: Optional[file:///C:/Users/Usuario/Desktop/MoveRent-Progra-Funcional/src/main/scala/Main.scala]
+2026.09.12 18:51:11 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\.metals\.reports\metals-full\2026-09-12\r_empty-definition_(MoveRent-Progra-Funcional_5f66e974c94b)_18-51-11-058.md")
+2026.09.12 18:51:11 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\.metals\.reports\metals-full\2026-09-12\r_empty-definition_(MoveRent-Progra-Funcional_5f66e974c94b)_18-51-11-058.md")
+2026.09.12 18:51:11 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 18:51:15 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 4.63s
+2026.09.12 18:51:25 INFO  compiling moverent-progra-funcional_66e974c94b (2 scala sources)
+2026.09.12 18:51:27 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 1.96s
+2026.09.12 18:51:27 INFO  compiling moverent-progra-funcional_66e974c94b (2 scala sources)
+2026.09.12 18:51:27 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.92s
+2026.09.12 18:51:28 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\ResumenMensual.scala
+2026.09.12 18:51:48 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\ResumenMensual.scala
+2026.09.12 18:51:52 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\ResumenMensual.scala
+2026.09.12 18:51:53 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 18:51:55 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 1.8s
+2026.09.12 18:52:01 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 18:52:03 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 1.4s
+sept 12, 2026 6:59:27 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 17747
+2026.09.12 18:59:42 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 18:59:46 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 4.07s
+2026.09.12 19:06:27 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:06:31 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 3.44s
+sept 12, 2026 7:12:26 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 18144
+sept 12, 2026 7:12:33 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 18209
+sept 12, 2026 7:12:34 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 18220
+2026.09.12 19:12:55 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:12:59 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 3.36s
+2026.09.12 19:15:33 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:15:36 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 2.23s
+2026.09.12 19:15:40 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:15:42 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 1.94s
+2026.09.12 19:15:58 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:15:59 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 1.12s
+2026.09.12 19:16:58 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:16:58 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.97s
+sept 12, 2026 7:17:50 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 18732
+sept 12, 2026 7:17:52 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 18736
+sept 12, 2026 7:17:53 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 18734
+sept 12, 2026 7:17:53 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 18737
+sept 12, 2026 7:17:53 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 18738
+sept 12, 2026 7:17:53 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 18735
+sept 12, 2026 7:17:53 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 18741
+sept 12, 2026 7:17:53 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 18744
+sept 12, 2026 7:17:53 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 18742
+sept 12, 2026 7:17:53 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 18743
+sept 12, 2026 7:17:54 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 18746
+2026.09.12 19:17:56 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:17:59 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 2.91s
+2026.09.12 19:18:03 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:18:04 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 1.91s
+2026.09.12 19:18:11 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:18:12 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 1.4s
+2026.09.12 19:19:07 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:19:08 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 1.02s
+2026.09.12 19:19:32 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:19:32 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.51s
+sept 12, 2026 7:20:22 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 19194
+sept 12, 2026 7:20:41 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 19222
+2026.09.12 19:23:32 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:23:32 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.76s
+2026.09.12 19:24:11 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:24:11 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.92s
+2026.09.12 19:24:58 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:24:58 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.53s
+2026.09.12 19:27:38 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:27:38 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.46s
+2026.09.12 19:27:57 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:27:57 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.46s
+2026.09.12 19:28:53 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:28:53 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.53s
+2026.09.12 19:29:20 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:29:20 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.42s
+2026.09.12 19:30:05 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:30:05 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.57s
+2026.09.12 19:32:09 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:32:09 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.51s
+sept 12, 2026 7:33:06 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 20608
+sept 12, 2026 7:33:41 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 20715
+2026.09.12 19:33:46 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:33:46 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.54s
+2026.09.12 19:34:32 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:34:32 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.55s
+2026.09.12 19:35:09 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:35:09 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.45s
+sept 12, 2026 7:36:14 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 21024
+sept 12, 2026 7:36:26 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 21118
+2026.09.12 19:37:25 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:37:25 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.47s
+2026.09.12 19:38:06 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:38:06 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.54s
+sept 12, 2026 7:38:45 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 21485
+sept 12, 2026 7:38:50 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 21527
+sept 12, 2026 7:39:05 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 21599
+sept 12, 2026 7:39:05 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 21607
+sept 12, 2026 7:39:07 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 21624
+2026.09.12 19:39:14 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:39:14 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.46s
+sept 12, 2026 7:39:24 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 21699
+2026.09.12 19:39:37 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:39:37 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.39s
+sept 12, 2026 7:39:45 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 21782
+sept 12, 2026 7:39:48 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 21813
+sept 12, 2026 7:41:40 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 22086
+sept 12, 2026 7:41:51 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 22167
+2026.09.12 19:41:54 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:41:54 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.62s
+sept 12, 2026 7:42:02 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 22240
+sept 12, 2026 7:42:54 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 22363
+sept 12, 2026 7:42:55 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 22378
+sept 12, 2026 7:42:56 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 22397
+2026.09.12 19:42:57 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:42:57 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.48s
+2026.09.12 19:44:08 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:44:08 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.19s
+2026.09.12 19:44:08 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Main.scala
+2026.09.12 19:44:12 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Main.scala
+2026.09.12 19:44:12 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Main.scala
+2026.09.12 19:44:13 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Main.scala
+2026.09.12 19:44:12 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Main.scala
+2026.09.12 19:44:13 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Main.scala
+2026.09.12 19:44:12 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Main.scala
+2026.09.12 19:44:13 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Main.scala
+2026.09.12 19:44:12 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Main.scala
+2026.09.12 19:44:13 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Main.scala
+2026.09.12 19:44:13 WARN  Could not find 'println' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2026.09.12 19:44:13 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\.metals\.reports\metals-full\2026-09-12\r_empty-definition_(MoveRent-Progra-Funcional_5f66e974c94b)_18-51-11-058.md")
+2026.09.12 19:44:13 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\.metals\.reports\metals-full\2026-09-12\r_empty-definition_(MoveRent-Progra-Funcional_5f66e974c94b)_18-51-11-058.md")
+2026.09.12 19:44:14 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Main.scala
+2026.09.12 19:44:14 WARN  Could not load snapshot text for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Main.scala
+2026.09.12 19:44:15 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:44:15 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.6s
+sept 12, 2026 7:44:41 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 22787
+sept 12, 2026 7:44:42 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 22792
+2026.09.12 19:44:53 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:44:53 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.47s
+sept 12, 2026 7:45:01 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 22925
+sept 12, 2026 7:45:42 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 23133
+sept 12, 2026 7:45:50 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 23202
+sept 12, 2026 7:46:32 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 23379
+sept 12, 2026 7:46:36 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 23428
+sept 12, 2026 7:46:38 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 23452
+sept 12, 2026 7:46:43 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 23487
+sept 12, 2026 7:46:48 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 23536
+sept 12, 2026 7:46:49 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 23544
+2026.09.12 19:46:57 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:46:57 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.44s
+sept 12, 2026 7:47:22 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 23639
+2026.09.12 19:47:29 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:47:29 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.44s
+2026.09.12 19:52:53 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:52:53 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.27s
+2026.09.12 19:53:20 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:53:20 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.65s
+2026.09.12 19:53:42 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:53:42 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.41s
+2026.09.12 19:54:27 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:54:27 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.63s
+2026.09.12 19:55:58 INFO  compiling moverent-progra-funcional_66e974c94b (1 scala source)
+2026.09.12 19:55:58 INFO  time: compiled MoveRent-Progra-Funcional_66e974c94b in 0.67s
+2026.09.12 19:59:19 INFO  Shutting down server
+2026.09.12 19:59:19 INFO  Memory monitor stopped
+2026.09.12 19:59:19 INFO  shutting down Metals
+2026.09.12 19:59:19 INFO  Shut down connection with build server.
+2026.09.12 19:59:19 INFO  Exiting server
+2026.09.12 21:28:05 INFO  Started: Metals version 1.6.8 in folders 'C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional' for client Visual Studio Code 1.137.0.
+2026.09.12 21:28:05 INFO  time: initialize in 0.17s
+2026.09.12 21:28:09 INFO  Memory monitor started
+2026.09.12 21:28:19 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.12 21:28:20 INFO  no build target found for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Alquiler.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.12 21:28:24 INFO  no build target found for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Alquiler.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.12 21:28:24 INFO  no build target found for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Alquiler.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.12 21:28:25 INFO  Attempting to connect to the build server...
+2026.09.12 21:28:25 INFO  Running BSP server List(C:\Users\Usuario\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\.scala-build\ide-envs.json, C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional)
+2026.09.12 21:28:25 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\.metals\bsp.trace.json or C:\Users\Usuario\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.09.12 21:28:35 INFO  time: Connected to build server in 10s
+2026.09.12 21:28:35 INFO  Connected to Build server: scala-cli v1.15.0
+2026.09.12 21:28:35 INFO  time: Imported build in 0.15s
+2026.09.12 21:28:42 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.12 21:28:43 INFO  time: indexed workspace in 8.01s
+2026.09.12 21:30:29 INFO  Shutting down server
+2026.09.12 21:30:29 INFO  Memory monitor stopped
+2026.09.12 21:30:29 INFO  shutting down Metals
+2026.09.12 21:30:29 INFO  Shut down connection with build server.
+2026.09.12 21:30:29 INFO  Exiting server
+2026.09.13 18:40:46 INFO  Started: Metals version 1.6.8 in folders 'C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional' for client Visual Studio Code 1.137.0.
+2026.09.13 18:40:46 INFO  Memory monitor started
+2026.09.13 18:40:48 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.13 18:40:48 INFO  no build target found for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.13 18:40:54 INFO  no build target found for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.13 18:40:54 WARN  no build target for: C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Main.scala
+2026.09.13 18:40:54 INFO  no build target found for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.13 18:40:54 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$BuildTargetNotFoundForPathException: No build target could be found for the path: C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Main.scala
+	at scala.meta.internal.metals.debug.DebugDiscovery.validate(DebugDiscovery.scala:88)
+	at scala.meta.internal.metals.debug.DebugDiscovery.debugDiscovery(DebugDiscovery.scala:164)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$debugDiscovery$3(MetalsLspService.scala:1603)
+	at scala.meta.internal.metals.MetalsLspService.afterCompilationFinished(MetalsLspService.scala:1598)
+	at scala.meta.internal.metals.MetalsLspService.debugDiscovery(MetalsLspService.scala:1603)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:1157)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:184)
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:265)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:195)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2026.09.13 18:40:54 INFO  no build target found for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 13, 2026 6:40:54 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2
+2026.09.13 18:40:54 INFO  no build target found for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.13 18:40:55 INFO  Attempting to connect to the build server...
+2026.09.13 18:40:55 INFO  Running BSP server List(C:\Users\Usuario\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\.scala-build\ide-envs.json, C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional)
+2026.09.13 18:40:55 WARN  no build target for: C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Main.scala
+2026.09.13 18:40:55 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$BuildTargetNotFoundForPathException: No build target could be found for the path: C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Main.scala
+	at scala.meta.internal.metals.debug.DebugDiscovery.validate(DebugDiscovery.scala:88)
+	at scala.meta.internal.metals.debug.DebugDiscovery.debugDiscovery(DebugDiscovery.scala:164)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$debugDiscovery$3(MetalsLspService.scala:1603)
+	at scala.meta.internal.metals.MetalsLspService.afterCompilationFinished(MetalsLspService.scala:1598)
+	at scala.meta.internal.metals.MetalsLspService.debugDiscovery(MetalsLspService.scala:1603)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:1157)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:184)
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:265)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:195)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2026.09.13 18:40:55 INFO  no build target found for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+sept 13, 2026 6:40:55 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3
+sept 13, 2026 6:40:55 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 14
+2026.09.13 18:40:55 INFO  no build target found for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.13 18:40:57 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\.metals\bsp.trace.json or C:\Users\Usuario\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.09.13 18:40:59 INFO  BSP server: Starting compilation server
+2026.09.13 18:41:09 INFO  no build target found for C:\Users\Usuario\Desktop\MoveRent-Progra-Funcional\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.13 18:41:15 INFO  time: Connected to build server in 20s
+2026.09.13 18:41:15 INFO  Connected to Build server: scala-cli v1.15.0
+2026.09.13 18:41:15 INFO  time: Imported build in 0.27s
+2026.09.13 18:41:23 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.13 18:41:25 INFO  time: indexed workspace in 9.79s
+sept 13, 2026 6:46:29 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 196
+2026.09.13 20:10:32 INFO  Shutting down server
+2026.09.13 20:10:32 INFO  Memory monitor stopped
+2026.09.13 20:10:32 INFO  shutting down Metals
+2026.09.13 20:10:32 INFO  Shut down connection with build server.
+2026.09.13 20:10:32 INFO  Exiting server

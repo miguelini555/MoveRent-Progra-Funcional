@@ -1,4 +1,4 @@
-case class Resultado[T](
-    dato: T,
+case class Resultado[D](
+    dato: D,
     mensaje: String
 )

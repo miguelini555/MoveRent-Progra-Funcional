@@ -1,4 +1,5 @@
 object Main {
+    // Ejemplos Pruebas
     def main(args: Array[String]): Unit = {
 
     val usuario1 = Usuario(
@@ -66,6 +67,7 @@ object Main {
         List(alquiler1, alquiler2, alquiler3)
     )
 
+    // Diseño Terminal
     println("----- Bienvenido a MoveRENT -----")
     println(
         s"Usuarios: ${sistema.usuarios.length}"
@@ -88,7 +90,7 @@ object Main {
 
 
     println()
-    println("----- Informacion Vehiculo -----") // Componente Generico
+    println("----- Informacion Vehiculo -----")
     val resultadoVehiculo =
         Resultado(
             bicicleta1,
@@ -102,7 +104,7 @@ object Main {
     )
 
     println()
-    println("----- Recorrido -----") // Reduce
+    println("----- Recorrido -----")
     val kilometrosTotales =
         Funciones.kilometrosTotales(
             sistema.alquileres
@@ -201,8 +203,6 @@ object Main {
             println(s"Vehiculo: ${alquiler.vehiculo}")
             println(s"Estado anterior: ${alquiler.vehiculo.estado}")
             println(s"Estado nuevo: ${vehiculoActualizado.estado}")
-        
-
         val nuevoSistema =
             Funciones.actualizarSistema(
                 sistema,
@@ -218,7 +218,6 @@ object Main {
                 ).length
             }"
         )
-        
         println(
             s"Vehiculos disponibles ahora: ${
                 Funciones.vehiculosDisponibles(
@@ -226,7 +225,6 @@ object Main {
                 ).length
             }"
         )
-
         println(s"Cantidad de alquileres antes: ${sistema.alquileres.length}")
         println(s"Cantidad de alquileres despues: ${nuevoSistema.alquileres.length}")
         case None => println("No se pudo realizar el alquiler")
